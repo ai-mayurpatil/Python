@@ -12,7 +12,7 @@ root.geometry('400x240')
 root.title('Love Calculator????')
 
 # Function to calculate love percentage
-# between the user ans partner
+# between the user ans partnrr use
 
 
 def calculate_love():
